@@ -1,0 +1,8 @@
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\bin\Debug\AddressBookProg.exe.config
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\bin\Debug\AddressBookProg.exe
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\bin\Debug\AddressBookProg.pdb
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\obj\Debug\AddressBookProg.csproj.AssemblyReference.cache
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\obj\Debug\AddressBookProg.csproj.SuggestedBindingRedirects.cache
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\obj\Debug\AddressBookProg.csproj.CoreCompileInputs.cache
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\obj\Debug\AddressBookProg.exe
+C:\Users\amakuma6\source\repos\AddressBookProg\AddressBookProg\obj\Debug\AddressBookProg.pdb
